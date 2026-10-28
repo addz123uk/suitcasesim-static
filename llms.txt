@@ -1,0 +1,54 @@
+# SuitcaseSim
+
+> Travel eSIM price comparison. English site. Prices last imported 2026-10-28.
+
+SuitcaseSim compares prepaid travel eSIM plans. It is not the seller. Prices are copied from provider pages or public catalogs and dated.
+
+## Start
+- Home: https://suitcasesim.com/
+- Japan: https://suitcasesim.com/esim/japan/
+- Global: https://suitcasesim.com/esim/global/
+- Data calculator: https://suitcasesim.com/tools/data-calculator/
+- Methodology: https://suitcasesim.com/methodology/
+
+## Countries
+- USA: https://suitcasesim.com/esim/usa/
+- Japan: https://suitcasesim.com/esim/japan/
+- United Kingdom: https://suitcasesim.com/esim/uk/
+- Thailand: https://suitcasesim.com/esim/thailand/
+- Australia: https://suitcasesim.com/esim/australia/
+- Canada: https://suitcasesim.com/esim/canada/
+- Turkey: https://suitcasesim.com/esim/turkey/
+- Vietnam: https://suitcasesim.com/esim/vietnam/
+- China: https://suitcasesim.com/esim/china/
+- Mexico: https://suitcasesim.com/esim/mexico/
+- Albania: https://suitcasesim.com/esim/albania/
+- Malaysia: https://suitcasesim.com/esim/malaysia/
+- Singapore: https://suitcasesim.com/esim/singapore/
+- United Arab Emirates: https://suitcasesim.com/esim/uae/
+- France: https://suitcasesim.com/esim/france/
+- Indonesia: https://suitcasesim.com/esim/indonesia/
+- Philippines: https://suitcasesim.com/esim/philippines/
+- Egypt: https://suitcasesim.com/esim/egypt/
+- India: https://suitcasesim.com/esim/india/
+- Morocco: https://suitcasesim.com/esim/morocco/
+- Italy: https://suitcasesim.com/esim/italy/
+- New Zealand: https://suitcasesim.com/esim/new-zealand/
+- Spain: https://suitcasesim.com/esim/spain/
+- South Africa: https://suitcasesim.com/esim/south-africa/
+- Colombia: https://suitcasesim.com/esim/colombia/
+- Costa Rica: https://suitcasesim.com/esim/costa-rica/
+- Peru: https://suitcasesim.com/esim/peru/
+- Portugal: https://suitcasesim.com/esim/portugal/
+- Germany: https://suitcasesim.com/esim/germany/
+- Montenegro: https://suitcasesim.com/esim/montenegro/
+- Argentina: https://suitcasesim.com/esim/argentina/
+- South Korea: https://suitcasesim.com/esim/south-korea/
+- Brazil: https://suitcasesim.com/esim/brazil/
+- Saudi Arabia: https://suitcasesim.com/esim/saudi-arabia/
+- Sri Lanka: https://suitcasesim.com/esim/sri-lanka/
+- Andorra: https://suitcasesim.com/esim/andorra/
+- Kosovo: https://suitcasesim.com/esim/kosovo/
+- Netherlands: https://suitcasesim.com/esim/netherlands/
+- Taiwan: https://suitcasesim.com/esim/taiwan/
+- Chile: https://suitcasesim.com/esim/chile/
