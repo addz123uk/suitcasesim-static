@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://suitcasesim.com
+Sitemap: https://suitcasesim.com/sitemap.xml
